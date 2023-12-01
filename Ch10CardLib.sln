@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34322.80
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10CardLib", "Ch10CardLib\Ch10CardLib.csproj", "{02470AE2-B28B-49BB-98A9-B3EFB082C304}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ch10CardLib", "Ch10CardLib\Ch10CardLib.csproj", "{02470AE2-B28B-49BB-98A9-B3EFB082C304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ch10CardClient", "Ch10CardClient\Ch10CardClient.csproj", "{1F35FED5-FD47-4C11-A06B-A6BD329338F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{02470AE2-B28B-49BB-98A9-B3EFB082C304}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02470AE2-B28B-49BB-98A9-B3EFB082C304}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02470AE2-B28B-49BB-98A9-B3EFB082C304}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F35FED5-FD47-4C11-A06B-A6BD329338F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F35FED5-FD47-4C11-A06B-A6BD329338F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F35FED5-FD47-4C11-A06B-A6BD329338F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F35FED5-FD47-4C11-A06B-A6BD329338F8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
